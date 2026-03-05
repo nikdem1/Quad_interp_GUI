@@ -1,30 +1,3 @@
-# Seaborn common parameters
-# .15 = dark_gray
-# .8 = light_gray
-figure.facecolor: white
-text.color: .15
-axes.labelcolor: .15
-legend.frameon: False
-legend.numpoints: 1
-legend.scatterpoints: 1
-xtick.direction: out
-ytick.direction: out
-xtick.color: .15
-ytick.color: .15
-axes.axisbelow: True
-image.cmap: Greys
-font.family: sans-serif
-font.sans-serif: Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
-grid.linestyle: -
-lines.solid_capstyle: round
-
-# Seaborn whitegrid parameters
-axes.grid: True
-axes.facecolor: white
-axes.edgecolor: .8
-axes.linewidth: 1
-grid.color: .8
-xtick.major.size: 0
-ytick.major.size: 0
-xtick.minor.size: 0
-ytick.minor.size: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ce018ec37398ebc7a6d709de674fc542c5dd2d7f535114a1cbaa7c8a70f8d9
+size 664

@@ -1,16 +1,3 @@
-/*
- * plot_directive.css
- * ~~~~~~~~~~~~
- *
- * Stylesheet controlling images created using the `plot` directive within
- * Sphinx.
- *
- * :copyright: Copyright 2020-* by the Matplotlib development team.
- * :license: Matplotlib, see LICENSE for details.
- *
- */
-
-img.plot-directive {
-    border: 0;
-    max-width: 100%;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad489d68113cf4506e800bd854d77e09fc963bf043628ea3195cdd0930151f9
+size 318
