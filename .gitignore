@@ -1,0 +1,4 @@
+# Large files exceeding GitHub limit
+*.exe
+*.dll
+dist/
